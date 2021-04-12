@@ -1,4 +1,4 @@
-# UIKitBecaiOS
+# LucasMod
 
 [![CI Status](https://img.shields.io/travis/henrymelo/UIKitBecaiOS.svg?style=flat)](https://travis-ci.org/henrymelo/UIKitBecaiOS)
 [![Version](https://img.shields.io/cocoapods/v/UIKitBecaiOS.svg?style=flat)](https://cocoapods.org/pods/UIKitBecaiOS)
@@ -17,13 +17,13 @@ UIKitBecaiOS is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'UIKitBecaiOS'
+pod 'LucasMod'
 ```
 
 ## Author
 
-henrymelo, henry.melo@yahoo.com
+Lucas Werner Kuipers, lucaswkuipers@gmail.com
 
 ## License
 
-UIKitBecaiOS is available under the MIT license. See the LICENSE file for more info.
+LucasMod is available under the MIT license. See the LICENSE file for more info.
